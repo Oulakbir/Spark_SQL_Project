@@ -1,0 +1,51 @@
+Id,titre,description,service,date
+1,Incident 1,Problème mineur,Service A,2022-03-15
+2,Incident 2,Panne système,Service B,2023-01-10
+3,Incident 3,Panne réseau,Service A,2021-05-12
+4,Incident 4,Erreur de connexion,Service C,2022-06-11
+5,Incident 5,Problème de sécurité,Service B,2021-07-24
+6,Incident 6,Maintenance imprévue,Service A,2022-02-18
+7,Incident 7,Bug logiciel,Service C,2023-04-23
+8,Incident 8,Erreur matérielle,Service D,2022-08-01
+9,Incident 9,Incident mineur,Service A,2023-09-14
+10,Incident 10,Erreur de configuration,Service B,2022-10-19
+11,Incident 11,Panne de courant,Service C,2021-12-11
+12,Incident 12,Problème réseau,Service A,2023-03-27
+13,Incident 13,Erreur humaine,Service B,2021-04-05
+14,Incident 14,Défaillance matérielle,Service C,2022-07-08
+15,Incident 15,Problème de base de données,Service D,2023-01-25
+16,Incident 16,Défaillance logicielle,Service A,2021-09-17
+17,Incident 17,Erreur critique,Service B,2023-05-30
+18,Incident 18,Problème réseau,Service C,2022-11-11
+19,Incident 19,Panne matérielle,Service D,2021-02-15
+20,Incident 20,Incident mineur,Service A,2023-06-19
+21,Incident 21,Erreur de sécurité,Service B,2022-04-09
+22,Incident 22,Problème logiciel,Service C,2021-03-22
+23,Incident 23,Panne serveur,Service D,2022-09-15
+24,Incident 24,Incident critique,Service A,2023-07-12
+25,Incident 25,Problème de réseau,Service B,2021-10-21
+26,Incident 26,Erreur mineure,Service C,2023-02-19
+27,Incident 27,Panne logicielle,Service D,2022-05-05
+28,Incident 28,Problème matériel,Service A,2021-12-14
+29,Incident 29,Panne critique,Service B,2023-09-03
+30,Incident 30,Bug système,Service C,2022-01-16
+31,Incident 31,Erreur logicielle,Service D,2021-11-20
+32,Incident 32,Incident réseau,Service A,2023-05-10
+33,Incident 33,Erreur matérielle,Service B,2022-08-14
+34,Incident 34,Panne générale,Service C,2021-06-22
+35,Incident 35,Problème de connectivité,Service D,2022-12-29
+36,Incident 36,Bug mineur,Service A,2023-02-14
+37,Incident 37,Défaillance serveur,Service B,2021-01-19
+38,Incident 38,Problème critique,Service C,2022-10-23
+39,Incident 39,Panne réseau,Service D,2021-09-25
+40,Incident 40,Incident matériel,Service A,2023-07-06
+41,Incident 41,Erreur utilisateur,Service B,2022-03-28
+42,Incident 42,Défaillance réseau,Service C,2021-07-14
+43,Incident 43,Erreur critique,Service D,2022-06-04
+44,Incident 44,Problème serveur,Service A,2023-04-12
+45,Incident 45,Panne système,Service B,2021-05-09
+46,Incident 46,Problème de sécurité,Service C,2022-11-22
+47,Incident 47,Incident mineur,Service D,2021-08-17
+48,Incident 48,Erreur réseau,Service A,2023-06-20
+49,Incident 49,Problème critique,Service B,2022-09-13
+50,Incident 50,Panne matérielle,Service C,2021-10-07
