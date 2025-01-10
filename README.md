@@ -1,8 +1,8 @@
 # Spark SQL Project 
-## TP 3: Spark SQL  
 
-### Project Description  
+## Project Description  
 This project focuses on using **Apache Spark SQL** for processing and analyzing industrial incidents and hospital data. It aims to showcase the power of Spark in parallel and distributed data processing to extract meaningful insights.  
+
 ---
 ### Implementation  
 
